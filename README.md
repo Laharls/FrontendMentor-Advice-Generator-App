@@ -27,8 +27,8 @@ The purpose of this little project was to construct a small one-page application
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/UrbanskiDev/FrontendMentor-Advice-Generator-App)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-advice-generator-app-snowy.vercel.app/)
 
 ## My process
 
@@ -49,9 +49,9 @@ I will go on with more perplexing undertaking on FrontendMentor, which would mak
 
 ### Useful resources
 
-- [Ressource for glowing button ](https://codersblock.com/blog/creating-glow-effects-with-css/) - This helped me to make my button glowing when a user hover on the generator button XYZ reason.
+- [Ressource for glowing button](https://codersblock.com/blog/creating-glow-effects-with-css/) - This helped me to make my button glowing when a user hover on the generator button XYZ reason.
 
 ## Author
 
 - Website - [Anthony](https://www.your-site.com) Website not yet existing at the moment of the project
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/UrbanskiDev)
+- Frontend Mentor - [@UrbanskiDev](https://www.frontendmentor.io/profile/UrbanskiDev)
